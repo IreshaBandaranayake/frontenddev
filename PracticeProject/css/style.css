@@ -132,6 +132,14 @@ img{
     padding: 0 15px;
 }
 
+/* Card*/
+.card{
+    background: #fff;
+    color: #000;
+    border-radius: 10px;
+    padding: 20px;
+}
+
 /* Buttons */
 .btn{
     display: inline-block;
@@ -222,10 +230,3 @@ img{
     color: #fff;    
 }
 
-/* Card*/
-.card{
-    background: #fff;
-    color: #000;
-    border-radius: 10px;
-    padding: 20px;
-}
