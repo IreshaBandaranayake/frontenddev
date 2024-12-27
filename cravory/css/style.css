@@ -105,6 +105,10 @@ body{
     transform-origin: top;
 }
 
+.header .searchform.active{
+    transform: scaleY(1);
+}
+
 .header .searchform input{
     height: 100%;
     width: 100%;
@@ -187,7 +191,10 @@ body{
     .header{
         padding: 1.5rem 2rem;
     }
+}
 
+
+@media (max-width:768px){
     #menubtn{
         display: inline-block;
     }
@@ -211,4 +218,19 @@ body{
         padding: .5rem;
         font-size: 2rem;
     }
+
+    .header .searchform{
+        width: 90%;
+        right: 2rem;
+    }
 }
+
+@media (max-width:450px){
+
+    html{
+        font-size: 50%;    
+    }
+    
+}
+
+
