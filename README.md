@@ -16,8 +16,11 @@ Technical support contact info Email: iresha.himihami.mudiyanselage@student.lut.
 Project Description
 Cravory is a responsive cake ordering webpage offering a seamless experience for users to browse available items with prices, customized cake designs, user feedbacks, contact details etc. With mobile responsiveness and clear navigation, Cravory ensures convenience and accessibility for both technical and non-technical users.
 
+
 Tech Stack
+
 HTML, CSS, a bit of Javascript
+
 
 Installation Instructions
 
