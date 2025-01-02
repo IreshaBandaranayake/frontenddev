@@ -1,4 +1,3 @@
-
 Cravory Cake Ordering Webpage
 
 Project Documentation
@@ -11,16 +10,16 @@ Public URL: https://cravoryi.netlify.app
 
 GitHub Project Repo URL: https://github.com/IreshaBandaranayake/frontenddev.git
 
+YouTube Demo Video URL : https://www.youtube.com/watch?v=A-gPds4IUeU
+
 Technical support contact info Email: iresha.himihami.mudiyanselage@student.lut.fi / ireshabke@gmail.com Phone Number: +358449258650 / +94711807214
 
 Project Description
 Cravory is a responsive cake ordering webpage offering a seamless experience for users to browse available items with prices, customized cake designs, user feedbacks, contact details etc. With mobile responsiveness and clear navigation, Cravory ensures convenience and accessibility for both technical and non-technical users.
 
-
 Tech Stack
 
 HTML, CSS, a bit of Javascript
-
 
 Installation Instructions
 
@@ -39,7 +38,3 @@ Open the Project in Your Browser
 Locate the main HTML file (index.html) within the project directory.
 
 Open the file by double-clicking or using your preferred browser.
-
-
-
-
